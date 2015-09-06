@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\programs\androidtv-sample-inputs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\programs\androidtv-sample-inputs\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-d4ffea56a3b9ca52cafd92f57338acbd16c9dcd0.jar" />
+    </item>
+    <item
+        jar="D:\programs\androidtv-sample-inputs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\programs\androidtv-sample-inputs\app\build\intermediates\pre-dexed\debug\classes-0195ff2e608f39fc7eb49912b733653ec343a0ec.jar" />
+    </item>
+    <item
+        jar="D:\programs\androidtv-sample-inputs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\programs\androidtv-sample-inputs\app\build\intermediates\pre-dexed\debug\classes-8b7bb46de98c43c548bbb2bcd9ff947e69aa1afd.jar" />
+    </item>
+    <item
+        jar="D:\programs\androidtv-sample-inputs\app\libs\exoplayer_r1.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eee6c0e846ac5e73c9e5ef6f5ccfc8436e9897c7">
+        <dex dex="D:\programs\androidtv-sample-inputs\app\build\intermediates\pre-dexed\debug\exoplayer_r1.2.4-ef039fbed25a01116d9cfc094524ddb6ab043077.jar" />
+    </item>
+    <item
+        jar="D:\programs\androidtv-sample-inputs\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="D:\programs\androidtv-sample-inputs\app\build\intermediates\pre-dexed\debug\classes-a90fc1307a78c86fc8d38e353fb962c6a266c626.jar" />
+    </item>
+    <item
+        jar="C:\Users\chenay\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\programs\androidtv-sample-inputs\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-b92a10c3af9308724de672b99c64a932e5110fda.jar" />
+    </item>
+    <item
+        jar="D:\programs\androidtv-sample-inputs\app\build\intermediates\exploded-aar\com.android.support\leanback-v17\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="316a230e86dcfbe2fc1970758047249fad9bf664">
+        <dex dex="D:\programs\androidtv-sample-inputs\app\build\intermediates\pre-dexed\debug\classes-ce423866095a878025ae950ab642c145a4447546.jar" />
+    </item>
+
+</items>
